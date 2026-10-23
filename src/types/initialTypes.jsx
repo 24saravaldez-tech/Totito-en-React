@@ -1,5 +1,9 @@
 const inicio = {
-   seleccionar: 'SELECCIONAR'
+   seleccionar: 'SELECCIONAR',
+   continuar: 'CONTINUAR',
+   marcar: 'MARCAR',
+   reiniciar: 'REINICIAR',
+   volver: 'VOLVER'
 }
 
 const opcionesValidas = {
